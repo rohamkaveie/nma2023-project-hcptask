@@ -1,0 +1,7 @@
+	Model			Accuracy	AUC
+0	Logistic Regression	0.681818	0.59
+1	SVM			0.696970	0.53
+2	KNN			0.651515	0.65
+3	Decision Tree		0.636364	0.56
+4	Random Forest		0.727273	0.58
+5	Naive Bayes		0.606061	0.45

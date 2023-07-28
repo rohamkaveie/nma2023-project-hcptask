@@ -1,0 +1,7 @@
+	model			ACC		AUC 
+0	Logistic Regression	0.757576	0.68
+1	SVM			0.772727	0.67
+2	KNN			0.590909	0.63
+3	Decision Tree		0.621212	0.50
+4	Random Forest		0.696970	0.53
+5	Naive Bayes		0.742424	0.60
