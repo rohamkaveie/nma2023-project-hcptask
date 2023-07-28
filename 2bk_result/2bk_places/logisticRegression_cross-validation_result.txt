@@ -1,0 +1,6 @@
+Acc scores: [0.625 0.675 0.55  0.6   0.6  ]
+Mean Acc score: 0.6100000000000001
+Standard deviation of AUC scores: 0.040620192023179805
+AUC scores: [0.47578348 0.65203762 0.73333333 0.60353535 0.5922619 ]
+Mean AUC score: 0.6113903369937853
+Standard deviation of AUC scores: 0.08407034467084298
